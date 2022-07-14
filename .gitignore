@@ -1,0 +1,13 @@
+simulator
+.*.swp
+*.dat
+*.db
+*.mp4
+*.norm
+*.o
+*.png
+*.pyc
+*.tfevents.*
+*.txt
+*.zip
+results.json
